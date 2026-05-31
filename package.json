@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "@adonisjs/core": "^7.3.3",
-    "@jrmc/adonis-mcp": "^1.0.2",
+    "@jrmc/adonis-mcp": "^1.0.3",
     "reflect-metadata": "^0.2.2"
   },
   "bundleDependencies": [
